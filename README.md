@@ -43,4 +43,5 @@ __Find Me Bro__ - это поисковый движок. С его помощь
   <systemPath>C:/Users/zoyag/.m2/repository/lucene/morphology/morph/1.5/morph-1.5.jar</systemPath> # путь до файла библиотеки
   </dependency>
   ```
+* Можете запустить проект
 
